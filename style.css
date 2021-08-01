@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: lightsteelblue;
+  }
+  
+  #heading{
+    font-size: 50px;
+    color: white;
+  }
+  
+  #images{
+    height: 500px;
+    border-width: 20px;
+    border-style: ridge;
+    margin: 10px;
+    border-radius: 0px;
+    border-color: lightseagreen;
+  }
+  
+  #reasons{
+    font-size: 22px;
+  }
+
+  #images{
+    background-color: white;
+    color: white;
+  }
